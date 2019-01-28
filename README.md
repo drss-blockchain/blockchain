@@ -1,10 +1,3 @@
-
-explore
-----------------------------
-blockchain | Web3 | DAPP
----------- |----- | ----
-
-
 case studies
 -----------------------------
 Sr.No. | Title | Description
