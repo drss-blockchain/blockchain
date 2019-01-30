@@ -6,6 +6,9 @@ Sr.No. | Title | Description
 2 | steemit | Steemit is a blogging and social networking website
 3 | indorse | skills validation platform which helps candidates validate their tech skills. Web 3.0 architecture with tokens on the ethereum blockchain.
 
+ethereum
+----
+
 
 docs
 ------------------------------------------- 
