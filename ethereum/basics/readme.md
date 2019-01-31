@@ -6,6 +6,7 @@ no. | title | link | description | type | done
 2 | blockchain revolution. talks at google | https://youtu.be/3PdO7zVqOwc | looking at how the technology behind Bitcoin can reshape the world of business and transform the old order of human affairs for the better | `video` | :o:
 
 
+
 ---
 symbols | meanings
 ------- | --------
