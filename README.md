@@ -1,6 +1,6 @@
 case studies
 -----------------------------
-Sr.No. | Title | Description
+Sr.No. | <pre>     Title       </pre> | Description
 ------ | ----- | ------------
 1 | arcade city | decentralized ride sharing service
 2 | steemit | Steemit is a blogging and social networking website
