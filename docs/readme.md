@@ -1,6 +1,6 @@
 ---
   
-## learning sources
+## Basic blockchain learning sources
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
