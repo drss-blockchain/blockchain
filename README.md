@@ -9,7 +9,7 @@ Sr.No. | <pre>     Title       </pre> | Description
 
 -----
 
-## [ethereum](https://github.com/official-akshayjadhav/blockchain/tree/master/ethereum)
+## [ethereum](https://github.com/official-akshayjadhav/ethereumbook)
 <br />
 
 -----
