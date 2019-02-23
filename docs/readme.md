@@ -11,7 +11,7 @@ no. | title | link | description | type | status
 7 | What is blockchain -blockGeeks | https://blockgeeks.com/guides/what-is-blockchain-technology/ | broad overview is explained | `article` | :heavy_check_mark:
 8 | Blockchain: The Invisible Technology That's Changing the World | https://www.pcmag.com/article/351486/blockchain-the-invisible-technology-thats-changing-the-wor | - | `article` | :heavy_check_mark:
 9 | how blockchain can transform india | https://www.youtube.com/watch?v=8fbhI1qVj0c | tedX talk | `video` | :heavy_check_mark:
-
+10 | blockchain as a service on azure | https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/ | - | `article` | :heavy_check_mark:
 <br/>
 
 ## docs
