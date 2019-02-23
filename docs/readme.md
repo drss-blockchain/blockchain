@@ -10,6 +10,7 @@ no. | title | link | description | type | status
 4 | Introduction To The Blockchain | https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575 | blockchain = block + chain | `article` | :o:
 5 | exploring the Blockchain | https://medium.com/@jadhavakshaymahesh/exploring-the-blockchain-b5559c1ddaa2 | - | `article` | :heavy_check_mark: 
 6 | bitcoin white paper | https://queue.acm.org/detail.cfm?id=3136559  | first blockchain | `article` | :heavy_check_mark:
+7 | What is blockchain -blockGeeks | https://blockgeeks.com/guides/what-is-blockchain-technology/ | broad overview is explained | `article` | :heavy_check_mark:
 
 <br/>
 
