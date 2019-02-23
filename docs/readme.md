@@ -11,6 +11,7 @@ no. | title | link | description | type | status
 5 | exploring the Blockchain | https://medium.com/@jadhavakshaymahesh/exploring-the-blockchain-b5559c1ddaa2 | - | `article` | :heavy_check_mark: 
 6 | bitcoin white paper | https://queue.acm.org/detail.cfm?id=3136559  | first blockchain | `article` | :heavy_check_mark:
 7 | What is blockchain -blockGeeks | https://blockgeeks.com/guides/what-is-blockchain-technology/ | broad overview is explained | `article` | :heavy_check_mark:
+8 | Blockchain: The Invisible Technology That's Changing the World | https://www.pcmag.com/article/351486/blockchain-the-invisible-technology-thats-changing-the-wor | - | `article` | :heavy_check_mark:
 
 <br/>
 
