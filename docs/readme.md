@@ -1,7 +1,6 @@
----
-  
-## Basic blockchain learning sources
+### Basic blockchain learning resources
 
+---
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
 1 | what is Blockchain? | https://youtu.be/SSo_EIwHSd4 | intro for beginners | `video` | :heavy_check_mark: 
