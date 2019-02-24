@@ -14,12 +14,14 @@ no. | title | link | description | type | status
 10 | blockchain as a service on azure |  [click here](https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/) | - | `article` | :heavy_check_mark:
 11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :o:
 12 | Public vs Private blockchain | [click here](On Public and Private Blockchains) | **must read** | `article` | :o:
-
+13 | Public vs Permissioned blockchain | [click here](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains) | **must read** | `article` | :o:
+14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :o: 
+15 | Ethereum blockchain explorer | [click here](https://etherscan.io/) | official website | `website` | :o:
 <br/>
 
 ### Cryptocurrencies
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
-1 | what is Cryptocurrencies | [click here](What is Cryptocurrency. Guide for Beginners) | basic | `article` | :o:
+1 | what is Cryptocurrencies | [click here](https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies#accept-as-payment-for-business) | basic for Beginners | `article` | :o:
 2 | All about cryptocurrencies | [click here](https://blockgeeks.com/guides/what-is-cryptocurrency/) | basic | `article | :o:
