@@ -17,6 +17,11 @@ no. | title | link | description | type | status
 13 | Public vs Permissioned blockchain | [click here](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains) | **must read** | `article` | :o:
 14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :o: 
 15 | Ethereum blockchain explorer | [click here](https://etherscan.io/) | official website | `website` | :o:
+16 | how safe are blockchains, it depends | [click here](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends) | **must read** | `article` | :o:
+17 | blockchains embedding integrity | [click here](https://infospectives.co.uk/2016/01/05/blockchains-embedding-integrity/) | - | `article` | :o:
+18 | Securing Blockchain | [click here](https://home.kpmg/xx/en/home/insights/2017/05/securing-the-blockchain-fs.html) | - | `article` | :o:
+19 | what is a block header in bitcoin | [click here](https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/) | - | `article` | :o:
+
 <br/>
 
 
@@ -27,6 +32,10 @@ no. | title | link | description | type | status
 1 | what is public key cryptography | [click here](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography/) | - | `article` | :o:
 2 |  public key cryptography | [click here](https://youtu.be/GSIDS_lvRv4) | by computerphile | `video` | :heavy_check_mark:
 3 | asymmetric cryptography | [click here](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography) | - | `article` | :o:
+4 | What Is Hashing? Under The Hood Of Blockchain | [click here](https://blockgeeks.com/guides/what-is-hashing/) | - | `article` | :o:
+5 | SHA: Secure Hashing Algorithm | [click here](https://www.youtube.com/watch?v=DMtFhACPnTY) |  by Computerphile | `video` | :o:
+6 | Hash Function | [click here](https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html) | - | `article` | :o:
+7 | blockkchain demo | [click here](https://anders.com/blockchain/hash.html) | demo web application for blockchain | `webApp` | :o:
 
 <br/>
 
