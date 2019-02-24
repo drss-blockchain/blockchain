@@ -1,5 +1,8 @@
-case studies
------------------------------
+[docs]() | contains basic and advanced study material about Blockchain in the form of pdf, article, video, webApp
+-------- | -------------------------------------------------------------------------------------------------------
+
+## case studies
+
 Sr.No. | Title | Description | Link
 ------ | ----- | ----------- | -----
 1 | arcade city | decentralized ride sharing service | https://github.com/drss-blockchain/blockchain/tree/master/case-study/arcade%20city
