@@ -24,4 +24,4 @@ no. | title | link | description | type | status
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
 1 | what is Cryptocurrencies | [click here](https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies#accept-as-payment-for-business) | basic for Beginners | `article` | :o:
-2 | All about cryptocurrencies | [click here](https://blockgeeks.com/guides/what-is-cryptocurrency/) | basic | `article | :o:
+2 | All about cryptocurrencies | [click here](https://blockgeeks.com/guides/what-is-cryptocurrency/) | basic | `article` | :o:
