@@ -20,7 +20,7 @@ no. | title | link | description | type | status
 <br/>
 
 
-### Cryptocurrencies
+### Cryptography
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
@@ -29,6 +29,7 @@ no. | title | link | description | type | status
 2 | asymmetric cryptography | [click here](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography) | - | `article` | :o:
 
 <br/>
+
 ### Cryptocurrencies
 
 no. | title | link | description | type | status
