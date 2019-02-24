@@ -13,3 +13,4 @@ no. | title | link | description | type | status
 9 | how blockchain can transform india |  [click here](https://www.youtube.com/watch?v=8fbhI1qVj0c) | tedX talk | `video` | :heavy_check_mark:
 10 | blockchain as a service on azure |  [click here](https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/) | - | `article` | :heavy_check_mark:
 11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :o:
+12 | Public vs Private blockchain | [click here](On Public and Private Blockchains) | **must read** | `article` | :o:
