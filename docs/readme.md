@@ -1,4 +1,4 @@
-### Basic blockchain
+### Blockchain basics
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
