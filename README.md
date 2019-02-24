@@ -1,5 +1,5 @@
-[docs]() | contains basic and advanced study material about Blockchain in the form of pdf, article, video, webApp
--------- | -------------------------------------------------------------------------------------------------------
+[docs](https://github.com/drss-blockchain/blockchain/tree/master/docs) | contains basic and advanced study material about Blockchain in the form of pdf, article, video, webApp
+---- | -----------------------------------------------------------------------------------------------------------
 
 ## case studies
 
