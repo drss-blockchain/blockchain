@@ -26,7 +26,7 @@ no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
 1 | what is public key cryptography | [click here](https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography/) | - | `article` | :o:
 2 |  public key cryptography | [click here](https://youtu.be/GSIDS_lvRv4) | by computerphile | `video` | :heavy_check_mark:
-2 | asymmetric cryptography | [click here](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography) | - | `article` | :o:
+3 | asymmetric cryptography | [click here](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography) | - | `article` | :o:
 
 <br/>
 
