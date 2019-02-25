@@ -9,12 +9,11 @@
 
 Sr.No. | Title | Link | Description | Status
 ------ | ----- | ----------- | ---- | ------
-1 | What is DACSEE ? | [click here](https://bitcoinexchangeguide.com/dacsee-ico/) | - | :heavy_check_mark:
+1 | What is DACSEE ? | [click here](https://bitcoinexchangeguide.com/dacsee-ico/) | basic businesss model | :heavy_check_mark:
 2 | White paper |  :warning: require | - | -
 
 <br/>
 
--------
 
 ### news
 Sr.No. | Title | Link | Description | Status
