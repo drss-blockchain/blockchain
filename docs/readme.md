@@ -23,6 +23,7 @@ no. | title | link | description | type | status
 19 | what is a block header in bitcoin | [click here](https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/) | - | `article` | :o:
 20 | Review of blockchain consensus mechanisms | [click here](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2) | - | `article` | :o:
 21 | How the Blockchain is Redefining Trust | [click here](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/) | - | `article` | :o:
+22 | What os genesis block? |[click here](https://en.bitcoin.it/wiki/Genesis_block) | about first block in any blockchain | `article` | :o:
 
 
 <br/>
