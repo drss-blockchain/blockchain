@@ -24,7 +24,7 @@ no. | title | link | description | type | status
 20 | Review of blockchain consensus mechanisms | [click here](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2) | - | `article` | :o:
 21 | How the Blockchain is Redefining Trust | [click here](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/) | - | `article` | :o:
 22 | What os genesis block? |[click here](https://en.bitcoin.it/wiki/Genesis_block) | about first block in any blockchain | `article` | :o:
-23 | Genesi sblock explaination | [click here](https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean) | about parameters in genesis block | `article` | :heavy_check_mark:
+23 | Genesis block explaination | [click here](https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean) | about parameters in genesis block | `article` | :heavy_check_mark:
 
 
 <br/>
