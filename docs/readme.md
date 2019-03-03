@@ -4,8 +4,8 @@ no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
 1 | what is Blockchain? |  [click here](https://youtu.be/SSo_EIwHSd4) | intro for beginners | `video` | :heavy_check_mark: 
 2 | what is blockchain tech.? |  [click here](https://blockgeeks.com/guides/what-is-blockchain-technology/) | - | `article` | :heavy_check_mark:
-3 | The Meaning of Decentralization  |  [click here](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) | - | `article` | :o:
-4 | Introduction To The Blockchain |  [click here](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575) | blockchain = block + chain | `article` | :o:
+3 | The Meaning of Decentralization  |  [click here](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) | - | `article` | :heavy_check_mark:
+4 | Introduction To The Blockchain |  [click here](https://medium.com/mindorks/what-is-blockchain-simplest-introduction-to-the-blockchain-764a468e1575) | blockchain = block + chain | `article` | :heavy_check_mark:
 5 | exploring the Blockchain |  [click here](https://medium.com/@jadhavakshaymahesh/exploring-the-blockchain-b5559c1ddaa2) | - | `article` | :heavy_check_mark: 
 6 | bitcoin white paper |  [click here](https://queue.acm.org/detail.cfm?id=3136559)  | first blockchain | `article` | :heavy_check_mark:
 7 | What is blockchain -blockGeeks |  [click here](https://blockgeeks.com/guides/what-is-blockchain-technology/) | broad overview is explained | `article` | :heavy_check_mark:
@@ -25,6 +25,8 @@ no. | title | link | description | type | status
 21 | How the Blockchain is Redefining Trust | [click here](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/) | - | `article` | :o:
 22 | What os genesis block? |[click here](https://en.bitcoin.it/wiki/Genesis_block) | about first block in any blockchain | `article` | :o:
 23 | Genesis block explaination | [click here](https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean) | about parameters in genesis block | `article` | :heavy_check_mark:
+24 | Gentle introduction to bitcoin mining | [click here](https://bitsonblocks.net/2015/09/21/a-gentle-introduction-to-bitcoin-mining/) | `What is bitcoin mining?` explained | `article` | :o:
+
 
 
 <br/>
