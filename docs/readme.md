@@ -12,7 +12,7 @@ no. | title | link | description | type | status
 8 | Blockchain: The Invisible Technology That's Changing the World |  [click here](https://www.pcmag.com/article/351486/blockchain-the-invisible-technology-thats-changing-the-wor) | - | `article` | :heavy_check_mark:
 9 | how blockchain can transform india |  [click here](https://www.youtube.com/watch?v=8fbhI1qVj0c) | tedX talk | `video` | :heavy_check_mark:
 10 | blockchain as a service on azure |  [click here](https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/) | - | `article` | :heavy_check_mark:
-11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :o:
+11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :heavy_check_mark:
 12 | Public vs Private blockchain | [click here](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) | **must read** | `article` | :o:
 13 | Public vs Permissioned blockchain | [click here](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains) | **must read** | `article` | :o:
 14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :o: 
@@ -25,7 +25,7 @@ no. | title | link | description | type | status
 21 | How the Blockchain is Redefining Trust | [click here](https://www.wired.com/story/how-the-blockchain-is-redefining-trust/) | - | `article` | :o:
 22 | What os genesis block? |[click here](https://en.bitcoin.it/wiki/Genesis_block) | about first block in any blockchain | `article` | :o:
 23 | Genesis block explaination | [click here](https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean) | about parameters in genesis block | `article` | :heavy_check_mark:
-24 | Gentle introduction to bitcoin mining | [click here](https://bitsonblocks.net/2015/09/21/a-gentle-introduction-to-bitcoin-mining/) | `What is bitcoin mining?` explained | `article` | :o:
+24 | Gentle introduction to bitcoin mining | [click here](https://bitsonblocks.net/2015/09/21/a-gentle-introduction-to-bitcoin-mining/) | `What is bitcoin mining?` explained | `article` | :heavy_check_mark:
 
 
 
