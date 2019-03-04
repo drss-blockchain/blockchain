@@ -2,7 +2,7 @@
 breed and sell various types of virtual cats.  
 for more [click here](https://github.com/cryptocopycats/awesome-cryptokitties)
 
-resources
+### resources
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
