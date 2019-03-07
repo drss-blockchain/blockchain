@@ -1,4 +1,3 @@
 ## BlockApps
 
-to know more about BlockApps go to following link
-link: https://blockapps.net/
+to know more about BlockApps [click here](link: https://blockapps.net/)
