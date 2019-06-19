@@ -15,7 +15,7 @@ no. | title | link | description | type | status
 11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :heavy_check_mark:
 12 | Public vs Private blockchain | [click here](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) | **must read** | `article` | :heavy_check_mark:
 13 | Public vs Permissioned blockchain | [click here](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains) | **must read** | `article` | :o:
-14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :o: 
+14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :heavy_check_mark: 
 15 | Ethereum blockchain explorer | [click here](https://etherscan.io/) | official website | `website` | :o:
 16 | how safe are blockchains, it depends | [click here](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends) | **must read** | `article` | :o:
 17 | blockchains embedding integrity | [click here](https://infospectives.co.uk/2016/01/05/blockchains-embedding-integrity/) | - | `article` | :o:
