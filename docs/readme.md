@@ -13,7 +13,7 @@ no. | title | link | description | type | status
 9 | how blockchain can transform india |  [click here](https://www.youtube.com/watch?v=8fbhI1qVj0c) | tedX talk | `video` | :heavy_check_mark:
 10 | blockchain as a service on azure |  [click here](https://azure.microsoft.com/en-us/blog/ethereum-blockchain-as-a-service-now-on-azure/) | - | `article` | :heavy_check_mark:
 11 | A Gentle Introduction to Blockchain | [click here](https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/) | - | `article` | :heavy_check_mark:
-12 | Public vs Private blockchain | [click here](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) | **must read** | `article` | :o:
+12 | Public vs Private blockchain | [click here](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/) | **must read** | `article` | :heavy_check_mark:
 13 | Public vs Permissioned blockchain | [click here](https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains) | **must read** | `article` | :o:
 14 | Blockchain Explorer | [click here](https://www.blockchain.com/explorer) | official website | `website` | :o: 
 15 | Ethereum blockchain explorer | [click here](https://etherscan.io/) | official website | `website` | :o:
