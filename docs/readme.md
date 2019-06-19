@@ -26,7 +26,7 @@ no. | title | link | description | type | status
 22 | What os genesis block? |[click here](https://en.bitcoin.it/wiki/Genesis_block) | about first block in any blockchain | `article` | :o:
 23 | Genesis block explaination | [click here](https://ethereum.stackexchange.com/questions/2376/what-does-each-genesis-json-parameter-mean) | about parameters in genesis block | `article` | :heavy_check_mark:
 24 | Gentle introduction to bitcoin mining | [click here](https://bitsonblocks.net/2015/09/21/a-gentle-introduction-to-bitcoin-mining/) | `What is bitcoin mining?` explained | `article` | :heavy_check_mark:
-
+25 | Blockchain vs Database | [click here](https://youtu.be/NK5Fz3w-H4o) | What is the difference between a Blockchain and a database by Gideon Greenspan | `video` | :o:
 
 
 <br/>
