@@ -63,5 +63,5 @@ no. | title | link | description | type | status
 
 no. | title | link | description | type | status
 --- | ----- | ---- | ----------- | ---- | -------
-1 | what is RPC/JSON-RPC ? | [click here](https://medium.com/@ConsenSys/blockchain-underpinnings-2c43ba03ecc9) | - | `article` | :heavy_check_mark 
+1 | what is RPC/JSON-RPC ? | [click here](https://medium.com/@ConsenSys/blockchain-underpinnings-2c43ba03ecc9) | - | `article` | :heavy_check_mark:
 2 | what is fiat? | [click here](https://www.investopedia.com/terms/f/fiatmoney.asp) | this article si on how currencies operate | `article` | :o:
